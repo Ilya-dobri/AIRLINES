@@ -1,0 +1,55 @@
+{
+  "items": [
+    {
+      "id": "1",
+      "price": 135400,
+      "MOWHKT": "10:30-9:00",
+      "timego": "21ч 55м",
+      "timego2": "04:15",
+      "transfer": "none",
+      "transfer2": "HKG, JNB",
+      "type": 1
+    },
+    {
+      "id": "2",
+      "price": 15400,
+      "MOWHKT": "1:30 - 9:00",
+      "timego": "21:15",
+      "transfer": "HKG,JNB,JNB",
+      "type": 2
+    },
+    {
+      "id": "3",
+      "price": 12400,
+      "MOWHKT": "21:30 - 10:00",
+      "MOWHKT2": "00:30",
+      "timego": "21:65",
+      "timego2": "01:55",
+      "transfer": "HKG,JNB",
+      "transfer2": "HKG",
+      "type": 2
+    },
+    {
+      "id": "4",
+      "price": 113400,
+      "MOWHKT": "10:30 - 9:00",
+      "MOWHKT2": "10:30 - 15:00",
+      "timego": "21:15",
+      "timego2": "01:15",
+      "transfer": "none",
+      "transfer2": ["HKG", "JNB"],
+      "type": 0
+    },
+    {
+      "id": "5",
+      "price": 63400,
+      "MOWHKT": "10:30 - 9:00",
+      "MOWHKT2": "22:30 - 15:00",
+      "timego": "21:55",
+      "timego2": "01:25",
+      "transfer": "HKG",
+      "transfer2": "HKG, JNB",
+      "type": 1
+    }
+  ]
+}
